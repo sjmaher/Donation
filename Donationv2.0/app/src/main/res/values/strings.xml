@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Donation v2.0</string>
+    <string name="donateTitle">Why, Hello there Homer...</string>
+    <string name="donateSubtitle">Give us your Goddamn money!</string>
+    <string name="donateButton">Donate!</string>
+    <string name="payPal">PayPal</string>
+    <string name="Direct">Direct</string>
+    <string name="action_settings">Settings</string>
+    <string name="menuReport">Report</string>
+    <string name="menuDonate">Donate</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
